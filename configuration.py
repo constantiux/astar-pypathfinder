@@ -1,4 +1,4 @@
-WIDTH = 900
+WIDTH = 500
 
 BLACK = (0, 0, 0) # Background
 GREY = (200, 200, 200) # Gridline
