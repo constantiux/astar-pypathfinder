@@ -13,4 +13,8 @@ As an informed variation of Dijkstra, `A*` is considered a `best first search` b
 
 ## Python Implementation
 
-_To be updated._
+![](res/fast.gif)
+
+![](res/med.gif)
+
+![](res/slow.gif)
